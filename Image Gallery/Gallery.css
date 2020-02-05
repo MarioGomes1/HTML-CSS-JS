@@ -1,0 +1,66 @@
+.image1 {
+  background-image: url(https://images.unsplash.com/photo-1580880783226-2eb5a737db5b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80);
+}
+
+
+.image2 {
+  background-image: url(https://images.unsplash.com/photo-1580707310682-4e36a68f2619?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3934&q=80);
+}
+
+.image3{
+    background-image: url(https://images.unsplash.com/photo-1580792873192-06a706fc6865?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=933&q=80);
+}
+
+.image4{
+    background-image: url(https://images.unsplash.com/photo-1580894240525-e3e591958b35?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1301&q=80);
+}
+
+.image5{
+    background-image:url(https://images.unsplash.com/photo-1580878481602-3614efdcfb2e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80)
+}
+.image6{
+    background-image:url(https://images.unsplash.com/photo-1580792753313-8741e212ffac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80
+)
+}
+.image7 {
+  background-image: url(https://images.unsplash.com/photo-1580862015818-dd0ea3aa4235?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80
+);
+}
+
+
+.image8 {
+  background-image: url(https://images.unsplash.com/photo-1580842985328-713c009ba577?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80
+);
+}
+
+.image9{
+    background-image: url(https://images.unsplash.com/photo-1462392492910-dbe985c1e680?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80
+);
+}
+
+.image10{
+    background-image: url(https://images.unsplash.com/photo-1580826127447-e0fc79d0110c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
+);
+}
+
+.image11{
+    background-image:url(https://images.unsplash.com/photo-1580863277771-c77a0fa9de10?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80
+)
+}
+.image12{
+    background-image:url(https://images.unsplash.com/photo-1580845363455-fd0c5cca4e2a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80)
+}
+
+
+body{
+    padding-top: 70px;
+}
+
+
+
+.image {
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+}
